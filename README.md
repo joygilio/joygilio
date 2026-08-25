@@ -1,16 +1,13 @@
-## Hi there 👋
+# Welcome to the code jungle! 🌿💻
 
-<!--
-**joygilio/joygilio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este é o meu espaço de sobrevivência, treino e aprendizado no mundo do desenvolvimento. Aqui eu desbravo novas tecnologias, cometo erros e evoluo um commit de cada vez.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎒 O que estou desbravando no momento:
+
+* **Front-End:** Construindo interfaces modernas e responsivas com HTML5 e CSS3.
+* **UX/UI Design:** Entendendo a jornada do usuário e criando protótipos focados em experiência.
+
+### 🛠️ Minhas Ferramentas de Estudo:
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![Figma](https://shields.io)

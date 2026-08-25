@@ -10,4 +10,7 @@ Este é o meu espaço de sobrevivência, treino e aprendizado no mundo do desenv
 * **UX/UI Design:** Entendendo a jornada do usuário e criando protótipos focados em experiência.
 
 ### 🛠️ Minhas Ferramentas de Estudo:
-![HTML5](https://shields.io) ![CSS3](https://shields.io) ![Figma](https://shields.io)
+* 🌐 **HTML5**
+* 🎨 **CSS3**
+* 📐 **Figma (UX/UI)**
+

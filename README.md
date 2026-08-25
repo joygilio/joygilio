@@ -14,3 +14,8 @@ Este é o meu espaço de sobrevivência, treino e aprendizado no mundo do desenv
 * 🎨 **CSS3**
 * 📐 **Figma (UX/UI)**
 
+* ### 🤝 Vamos nos conectar?
+* 💼 [Meu LinkedIn](https://www.linkedin.com/in/joygilio/)
+* 📧 joygilio@outlook.com
+
+

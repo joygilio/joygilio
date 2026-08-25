@@ -18,4 +18,8 @@ Este é o meu espaço de sobrevivência, treino e aprendizado no mundo do desenv
 * 💼 [Meu LinkedIn](https://www.linkedin.com/in/joygilio/)
 * 📧 joygilio@outlook.com
 
+### 🚀 Projetos em Destaque
+* 💻 **[Nome do Projeto 1](LINK_DO_REPOSITORIO):** Uma página web responsiva criada com HTML e CSS para praticar layouts.
+* 🎨 **[Protótipo no Figma](LINK_DO_FIGMA):** Estudo de caso de UX/UI focado na experiência de um aplicativo de entregas.
+
 
